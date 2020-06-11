@@ -1,0 +1,183 @@
+fileFormatVersion: 2
+guid: 634ccd5c07c9be745ba3e2af15577ec7
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    400000: //RootNode
+    2100000: Stone.001
+    2100002: Grass_Block.001
+    2100004: Dirt.001
+    2100006: Cobblestone.001
+    2100008: Oak_Planks.001
+    2100010: Bedrock.001
+    2100012: Stationary_Water.001
+    2100014: Gravel.001
+    2100016: Oak_Log.001
+    2100018: Oak_Leaves.001
+    2100020: Sandstone.001
+    2100022: Cobweb.001
+    2100024: Grass.001
+    2100026: Piston.001
+    2100028: Wool.001
+    2100030: Dandelion.001
+    2100032: Poppy.001
+    2100034: Block_of_Iron.001
+    2100036: Double_Stone_Slab.001
+    2100038: Stone_Slab.001
+    2100040: Bricks.001
+    2100042: Standing_Sign.001
+    2100044: Cobblestone_Stairs.001
+    2100046: Wall_Sign.001
+    2100048: Iron_Door.001
+    2100050: Cactus.001
+    2100052: Glowstone.001
+    2100054: Stained_Glass.001
+    2100056: Infested_Stone.001
+    2100058: Iron_Bars.001
+    2100060: Glass_Pane.001
+    2100062: Brick_Stairs.001
+    2100064: Stone_Brick_Stairs.001
+    2100066: Nether_Brick.001
+    2100068: Nether_Brick_Fence.001
+    2100070: Nether_Brick_Stairs.001
+    2100072: Cauldron.001
+    2100074: End_Stone.001
+    2100076: Double_Oak_Slab.001
+    2100078: Oak_Slab.001
+    2100080: Sandstone_Stairs.001
+    2100082: Cobblestone_Wall.001
+    2100084: Flower_Pot.001
+    2100086: Mob_Head.001
+    2100088: Heavy_Weighted_Pressure_Plate.001
+    2100090: Block_of_Quartz.001
+    2100092: Quartz_Stairs.001
+    2100094: Stained_Glass_Pane.001
+    2100096: Acacia_Leaves.001
+    2100098: Acacia_Log.001
+    2100100: Dark_Oak_Stairs.001
+    2100102: Iron_Trapdoor.001
+    2100104: Prismarine.001
+    2100106: Packed_Ice.001
+    2100108: Sunflower.001
+    2100110: Double_Red_Sandstone_Slab.001
+    2100112: Red_Sandstone_Slab.001
+    2100114: Dark_Oak_Fence_Gate.001
+    2100116: Birch_Fence.001
+    2100118: Dark_Oak_Fence.001
+    2100120: Jungle_Door.001
+    2100122: Acacia_Door.001
+    2100124: Dark_Oak_Door.001
+    2100126: End_Rod.001
+    2100128: Double_Purpur_Slab.001
+    2100130: Purpur_Slab.001
+    2100132: Bone_Block.001
+    2100134: Concrete.001
+    2100136: Concrete_Powder.001
+    2100138: Prismarine_Brick_Stairs.001
+    2100140: Dark_Prismarine_Stairs.001
+    2100142: Dark_Oak_Trapdoor.001
+    2100144: Birch_Pressure_Plate.001
+    2100146: Dark_Oak_Pressure_Plate.001
+    2100148: Stripped_Oak_Wood.001
+    2100150: Stripped_Acacia_Wood.001
+    2100152: Light_Blue_Wall_Banner.001
+    2100154: Gray_Wall_Banner.001
+    2100156: Blue_Wall_Banner.001
+    2100158: Green_Wall_Banner.001
+    2100160: Black_Wall_Banner.001
+    2100162: Smooth_Stone.001
+    2100164: Bamboo.001
+    2100166: Double_Andesite_Slab.001
+    2100168: Andesite_Slab.001
+    2100170: Lantern.001
+    2100172: Campfire.001
+    2300000: //RootNode
+    3300000: //RootNode
+    4300000: Columbia__-64_0_-249_to_260_255_323.001
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
